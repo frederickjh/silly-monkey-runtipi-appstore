@@ -1,7 +1,18 @@
-# Example App Store Template
+# Silly Monkey Runtipi App Store
 
-This repository serves as a template for creating your own custom app store for the Runtipi platform. Use this as a starting point to create and share your own collection of applications.
+This repository is my own custom app store for the Runtipi platform.
 
+> [!NOTE]
+> This repository in provided as is with no guarantees of usability. I plan to use the apps in this repository myself and will have tested them to that extent.
+
+> [!CAUTION]
+> Currently this App Store is a work in progress. This notice will be removed or changed when apps have been set up and tested.
+
+## Currently Planned Apps for this store
+- [Nebula Commander](https://nebulacdr.com)
+- [Radicale](https://radicale.org)
+
+<!-- 
 ## Repository Structure
 
 - **apps/**: Contains individual app directories
@@ -29,3 +40,5 @@ This repository is intended to serve as a template for creating your own app sto
 
 For detailed instructions on creating your own app store, please refer to the official guide:
 [Create Your Own App Store Guide](https://runtipi.io/docs/guides/create-your-own-app-store)
+
+-->
