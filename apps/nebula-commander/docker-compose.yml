@@ -58,9 +58,9 @@ services:
       start_period: 5s
     networks:
       - nebula-commander
-x-runtipi:
-  is_main: true
-  internal_port: 80
+    x-runtipi:
+      is_main: true
+      internal_port: 80
 
 networks:
   nebula-commander:
