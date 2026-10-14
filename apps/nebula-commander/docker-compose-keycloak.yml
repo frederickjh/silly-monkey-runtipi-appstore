@@ -72,7 +72,6 @@ services:
     x-runtipi:
       is_main: false
       internal_port: 8080
-      internal_port: 9000
 
 volumes:
   keycloak-db-data:
